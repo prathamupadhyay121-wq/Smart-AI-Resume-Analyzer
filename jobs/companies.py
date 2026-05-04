@@ -9,7 +9,7 @@ FEATURED_COMPANIES = {
             "careers_url": "https://careers.google.com",
             "description": "Leading technology company known for search, cloud, and innovation",
             "categories": ["Software", "AI/ML", "Cloud", "Data Science"]
-        },
+        }
         {
             "name": "Microsoft",
             "icon": "fab fa-microsoft",
